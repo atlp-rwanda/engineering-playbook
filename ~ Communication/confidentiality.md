@@ -1,0 +1,1 @@
+While working on the engineering team, you may have access to private user data as part of your work on a given product. It is imperative that you **must not** share this information with anyone. Sharing any confidential information may be grounds for **dismissal**.
